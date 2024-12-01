@@ -1,7 +1,8 @@
+![logo](6678d6c2-cbc8-4ee8-b59d-0b61cd5bdf31.webp)
 <h1 align="center">Hi 👋, I'm Elif SAYHAN</h1>
 <h3 align="center">Cyber Security / En Recherche d'Alternance</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e488ba34-5560-492e-b855-a4a1769e3dfa" />
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/e488ba34-5560-492e-b855-a4a1769e3dfa" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elif-sayhan&label=Profile%20views&color=0e75b6&style=flat" alt="elif-sayhan" /> </p>
